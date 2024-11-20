@@ -8,6 +8,6 @@
 
     <!-- Tambahkan konfigurasi domain spesifik jika perlu -->
     <domain-config cleartextTrafficPermitted="true">
-        <domain includeSubdomains="true">192.168.1.9</domain>
+        <domain includeSubdomains="true">192.168.1.2</domain>
     </domain-config>
 </network-security-config>
